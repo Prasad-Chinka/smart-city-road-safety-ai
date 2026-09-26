@@ -1,0 +1,55 @@
+{
+  "users": [
+    {
+      "userId": "usr_8885188418",
+      "mobileNumber": "8885188418",
+      "email": "vu.241fa04d92@gmail.com",
+      "createdAt": "2026-09-25T06:51:40.589Z",
+      "lastLoginAt": "2026-09-25T06:51:40.589Z",
+      "totalLocationsChosen": 0
+    },
+    {
+      "userId": "usr_8919070527",
+      "mobileNumber": "8919070527",
+      "email": "vu.241fa04d51@gmail.com",
+      "createdAt": "2026-09-25T08:52:50.305Z",
+      "lastLoginAt": "2026-09-25T08:52:50.305Z",
+      "totalLocationsChosen": 0
+    },
+    {
+      "userId": "usr_919845012345",
+      "mobileNumber": "+91 98450 12345",
+      "email": "traffic.officer@smartcity.gov",
+      "createdAt": "2026-09-25T08:56:07.048Z",
+      "lastLoginAt": "2026-09-25T08:56:07.048Z",
+      "totalLocationsChosen": 0
+    }
+  ],
+  "otp_verifications": [
+    {
+      "mobileNumber": "8885188418",
+      "email": "vu.241fa04d92@gmail.com",
+      "otp": "261630",
+      "createdAt": "2026-09-25T06:50:43.183Z",
+      "expiresAt": "2026-09-25T07:00:43.183Z",
+      "verified": true
+    },
+    {
+      "mobileNumber": "+91 9390660797",
+      "email": "traffic.officer@smartcity.gov",
+      "otp": "338199",
+      "createdAt": "2026-09-25T06:58:50.916Z",
+      "expiresAt": "2026-09-25T07:08:50.916Z",
+      "verified": false
+    },
+    {
+      "mobileNumber": "8919070527",
+      "email": "vu.241fa04d51@gmail.com",
+      "otp": "345971",
+      "createdAt": "2026-09-25T08:52:07.960Z",
+      "expiresAt": "2026-09-25T09:02:07.960Z",
+      "verified": true
+    }
+  ],
+  "user_location_history": []
+}
